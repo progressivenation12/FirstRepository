@@ -3,4 +3,8 @@ Git education!
 Next -> 8. Settings SHH
 Line from user2
 Line from user1
+<<<<<<< HEAD
 Some new feature456
+=======
+Line from user1 - lesson about rebase
+>>>>>>> 716b18ebf435ca315a6969bdce93e4ef20e4ee6d
